@@ -1,0 +1,48 @@
+
+
+  GA APALACHIAN TRAIL
+
+  Length: 83.4 miles
+
+  Key Locations:
+
+  - Shelters:
+
+    - Springer Mountain - Day 1
+    - Hawk Mountain - Day 2
+    - Gooch Mountain - Day 3
+    - Blood Mountain - Day 4
+    - Low Gap - Day 5
+    - Blue Mountain - Day 6
+    - Tray Mountain - Day 7
+    - Deep Gap - Day 8
+    - Plumorchard Gap - Day 9
+
+  - Mountains:
+
+    - Amicalola Falls - 1800ft - Day 1
+    - Springer Mountain - 3771ft - Day 1
+    - Sassafras Mountain - 3340ft - Day 3
+    - Preaching Rock - 3726ft - Day 4
+    - Blood Mountain - 4450ft - Day 4
+    - Cowrock Mountain - 3853ft - Day 5
+    - Tray Mountain - 4421ft - Day 7
+    - Powell Mountain - 3851ft - Day 9
+    - Bly Gap - 3933ft - Day 10
+
+  - Mileage:
+
+    - Amicalola to Springer - 7.8mi - 1900ft
+    - Springer to Hawk Mountain Shelter - 7.8mi - 700ft
+    - Hawk Mountain Shelter to Sassafras Mountain - 4.4mi - 600ft
+    - Sassafrs Mountain to Gooch Mountain Shelter - 3.3mi - 500ft
+    - Gooch Mountain Shelter to Preaching Rock - 6.0mi - 1000ft
+    - Preaching Rock to Blood Mountain Shelter - 7.2mi - 1100ft
+    - Blood Mountain Shelter to Cowrock Mountain - 7.1mi - 400ft
+    - Cowrock Mountain to Low Gap Shelter - 6.1mi - 0ft
+    - Low Gap Shelter to Blue Mountain Shelter - 7.3mi - 900ft
+    - Blue Mountain Shelter to Tray Mountain Shelter - 5.5mi - 1300ft
+    - Tray Mountain Shelter to Deep Gap Shelter - 9.8mi - 900ft
+    - Deep Gap Shelter to Powell Mountain - 1.3mi - 300ft
+    - Powell Mountain to Plumorchard Gap Shelter - 6.7mi - 1000ft
+    - Plumorchard Gap Shelter to Bly Gap - 4.9mi - 800ft
